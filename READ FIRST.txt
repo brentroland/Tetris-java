@@ -1,0 +1,9 @@
+setup guide
+
+	1. click on java download it will start downloading jdk
+	
+	2. after it is finished downloading go to downloads and open it
+	
+	3. then follow the setup guide
+	
+	4. open my tetris game and it should work if not email brentroland3@duck.com

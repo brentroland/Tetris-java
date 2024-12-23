@@ -1,0 +1,1 @@
+start https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe
